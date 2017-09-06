@@ -11,3 +11,4 @@
 
 <a href= "https://github.com/watson-developer-cloud/node-sdk/tree/master/examples/conversation_tone_analyzer_integration">đây là link wit.ai của IBM phân tích 1 đoạn hội thoại</a> <br>
 <a href= "https://developer.ibm.com/watson/blog/2016/10/17/creating-a-compassionate-conversational-agent-using-watson-tone-analyzer-and-watson-conversation-services/">IBM phân tích 1 đoạn hội thoại</a>
+<a href="https://www.djamware.com/post/58a91cdf80aca748640ce353/how-to-create-rest-api-easily-using-nodejs-expressjs-mongoosejs-and-mongodb">link nodejs crud</a>
