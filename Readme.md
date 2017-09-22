@@ -12,3 +12,15 @@
 <a href= "https://github.com/watson-developer-cloud/node-sdk/tree/master/examples/conversation_tone_analyzer_integration">đây là link wit.ai của IBM phân tích 1 đoạn hội thoại</a> <br>
 <a href= "https://developer.ibm.com/watson/blog/2016/10/17/creating-a-compassionate-conversational-agent-using-watson-tone-analyzer-and-watson-conversation-services/">IBM phân tích 1 đoạn hội thoại</a>
 <a href="https://www.djamware.com/post/58a91cdf80aca748640ce353/how-to-create-rest-api-easily-using-nodejs-expressjs-mongoosejs-and-mongodb">link nodejs crud</a>
+
+các lệnh hay dùng trong linux
+ 1. change password root :
+  -- sudo -i : login bằng quyền root 
+  -- passwd : sau đó change password
+ 2. link cài lamp trên linux ubuntu
+ https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04
+ 3. link chạy file cấu hình cài Lamp  trên linux
+ http://www.websightdesigns.com/posts/view/how-to-configure-an-ubuntu-web-server-vm-with-vagrant
+ cái này thực chất là thực thi các câu lệnh trong file cũng giống như mình gõ từng lệnh một cài đặt môi trường 
+ như trong cái hướng dẫn số 2
+ 
