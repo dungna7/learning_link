@@ -23,4 +23,8 @@ các lệnh hay dùng trong linux
  http://www.websightdesigns.com/posts/view/how-to-configure-an-ubuntu-web-server-vm-with-vagrant
  cái này thực chất là thực thi các câu lệnh trong file cũng giống như mình gõ từng lệnh một cài đặt môi trường 
  như trong cái hướng dẫn số 2
+
+Link thực hành javascript
+<a href=”https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php”></a>
+
  
