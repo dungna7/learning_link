@@ -27,4 +27,7 @@ các lệnh hay dùng trong linux
 Link thực hành javascript
 <a href=”https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php”></a>
 
+link thực hành cordova push notification 
+<a href="https://codesundar.com/lesson/phonegap-plugin-push/"> thực hành push notification</a>
+
  
