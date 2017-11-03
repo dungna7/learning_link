@@ -1,0 +1,32 @@
+Ghi chú thực hành với linux 
+Máy ảo cài vagrant , virtualbox , centos7.0 (chú ý các bộ này đi theo cặp ví dụ vagrant < 2.0 thì virtualbox <5.0 nếu không thì khó cài máy ảo)
+1.	Cài vagrant 
+2.	Cài virtualbox
+3.	Cài git bash
+4.	Cài máy ảo
+Link cài lamp cho centos  https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-centos-7
+5.	Cài apache server
+Link  guide : https://www.linode.com/docs/web-servers/apache/install-and-configure-apache-on-centos-7
+a)	Bật git bash tại thư mục chứa file vagrant 
+b)	Ssh vào máy ảo:  vagrant ssh
+c)	Update  system :  sudo yum update
+d)	Install apache :  sudo yum install httpd
+e)	you can start Apache : sudo systemctl start httpd.service
+f)	enable Apache to start on boot. : sudo systemctl enable httpd.service
+6.	cài mysql  (MariaDB)
+install : sudo yum install mariadb-server mariadb
+start MariaDB : sudo systemctl start mariadb Now that our MySQL database is running, we want to run a simple security script that will remove some dangerous defaults and lock down access to our database system a little bit. Start the interactive script by running:
+
+sudo mysql_secure_installation
+
+The last thing you will want to do is enable MariaDB to start on boot. Use the following command to do so:
+
+sudo systemctl enable mariadb.service
+1.	thao tac Database
+link : https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line
+7.	Install PHP
+ Install PHP: udo yum install php php-mysql
+Restart the apache web server in order for it to work with PhP
+Run command : sudo systemctl restart  httpd.service
+
+8.	Cài mail server 
