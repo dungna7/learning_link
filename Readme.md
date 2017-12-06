@@ -32,4 +32,4 @@ link thực hành cordova push notification
 <a href="https://codesundar.com/lesson/phonegap-plugin-push/"> thực hành push notification</a>
 link tai jquery mobile 
 <a href= "https://jquerymobile.com/download/all/"></a>
- 
+ https://m.sohu.com/a/208208512_560008/?pvid=000115_3w_a
