@@ -33,3 +33,6 @@ link thực hành cordova push notification
 link tai jquery mobile 
 <a href= "https://jquerymobile.com/download/all/"></a>
  https://m.sohu.com/a/208208512_560008/?pvid=000115_3w_a
+ 
+ LINK DOWN DE THI n2
+ <a>https://drive.google.com/file/d/0BxwdYgWfqTA-TWxMbkx3M29OQ28/view</a>
