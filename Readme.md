@@ -37,3 +37,5 @@ link tai jquery mobile
  LINK DOWN DE THI n2
  <a>https://drive.google.com/file/d/0BxwdYgWfqTA-TWxMbkx3M29OQ28/view</a>
  http://tiengnhat.minder.vn/sach-tieng-nhat-chat-luong-cho-muc-tieu-chinh-phuc-n3-n2-n1/
+từ vựng công nghệ thông tin
+http://minder.vn/lesson/104000005
