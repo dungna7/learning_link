@@ -1,3 +1,5 @@
+mỗi khi gặp những trắc trở khó khăn biến động lớn lao trong cuộc đời làm chúng ta mất đi niềm tin vào cuộc sống. Nhiều người đã tìm được nguồn an ủi, hi vọng và sự tin tưởng vào “đạo”, vào những đức tin chúng ta tín ngưỡng (riêng bản thân tôi rất có cảm tình với đạo phật). Cũng như vậy, mỗi khi nhà toán học phải đối diện với các hàm số đa dạng và phức tạp. Lo sợ trước sự biến thiên, thay đổi khó lường của chúng… họ tìm được niềm tin vững chắc bởi vì “đạo hàm” chưa bao giờ làm họ thất vọng.
+
 <a href='https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data'>Sending_and_retrieving_form_data</a>
 <p>If you want to learn more about securing a web application, you can dig into these resources:</p>
 <ul>
